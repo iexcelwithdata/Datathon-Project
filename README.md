@@ -14,7 +14,7 @@ Any data analytics tool of your choice.
 ### 👣 Process
 
 #### Requirement
-You and your team have been contracted as consultants by a school somewhere in Africa (feel free to take any country or location of your choice) to help them build a solution that proactively leverages data to improve candidates’ performance not just in **JAMB**, but in all their upcoming final exams.
+You and your team (Data Titans) have been contracted as consultants by a school somewhere in Africa (feel free to take any country or location of your choice) to help them build a solution that proactively leverages data to improve candidates’ performance not just in **JAMB**, but in all their upcoming final exams.
 
 With students set to write **JAMB** and **WASSCE** again soon, you’ve been given a goal to ensure that an overwhelming majority of candidates score above average in their performance.
 
