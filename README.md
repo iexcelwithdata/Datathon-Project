@@ -26,3 +26,18 @@ With students set to write **JAMB** and **WASSCE** again soon, you’ve been giv
 3. **Design an enterprise data solution** for the school’s data collection, pipelining, warehousing, automation, and reporting needs.
 4. **Create an optimised model** that predicts the likelihood of a student passing or failing their upcoming exam based on their academic history. Consider all factors that could affect a student's upcoming result aside from their previous exam scores.
 5. **Make relevant recommendations** to the stakeholders on how they can help improve the performance of the students based on your solution.
+
+
+### Repository Structure
+data/: Contains raw and processed datasets.
+Data Analysis: PowerBi file, Dashboard pdf, Insight Report.
+Data Engineering: Data Generation Document, Enterprise Data Solution, Data Dictionary, and Solution Design.
+Data Science: Prediction_of_Success_Failure_Using_ML (.ipynb file)
+README.md: This file.
+
+### Key Technologies
+Python: Core language for data manipulation and model development.
+SQL & BigQuery: Used for data warehousing and querying.
+Airbyte: Data ingestion tool.
+PowerBI: Visualization for insights.
+dbt: Data transformation and processing.
