@@ -46,7 +46,7 @@ Our approach followed a **Data Science + Data Engineering + Business Intelligenc
 
 | Step | Description | Tools Used |
 |------|--------------|------------|
-| **1. Data Generation** | Designed and simulated realistic student datasets reflecting African education ecosystems (attendance, socio-economic data, study habits, etc.). | Python, Excel |
+| **1. Data Generation** | Designed and simulated realistic student datasets reflecting African education ecosystems (attendance, socio-economic data, study habits, etc.). | Python(Faker), Excel |
 | **2. Data Engineering** | Built a data architecture with automated ingestion, transformation, and storage pipelines. | Airbyte, dbt, BigQuery, SQL |
 | **3. Data Modeling** | Created relational models linking student performance, demographics, and engagement. | SQL, dbt |
 | **4. Predictive Analytics** | Developed a machine learning model to predict pass/fail outcomes based on multiple academic and behavioral factors. | Python (scikit-learn, Pandas, NumPy) |
@@ -93,7 +93,7 @@ Our approach followed a **Data Science + Data Engineering + Business Intelligenc
 
 ### 🖥️ Dashboard Preview  
 
-![Dashboard Preview](./images/DataFest%20Dashboard.png)
+![Dashboard Preview](./Images/Datathon.png)
 
 <p align="center">
   <a href="./DataFest%20Project%20Dashboard.pdf" target="_blank">
@@ -103,13 +103,12 @@ Our approach followed a **Data Science + Data Engineering + Business Intelligenc
 
 ---
 
-### 📑 PowerPoint Report  
+### 📑 Insights Report  
 
-![PowerPoint Report Preview](./images/DataFest%20Report.png)
 
 <p align="center">
-  <a href="./Insights%20Report/DataFest%20Report.pptx" target="_blank">
-    <img src="https://img.shields.io/badge/View_Full_Report-PowerPoint-blue?style=for-the-badge&logo=microsoftpowerpoint" alt="View Full Report">
+  <a href="./Data Analysis/Vine%20Comprehensive%20High%20School%20Insghits%20Report%20(1).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_Full_Report-blue?style=for-the-badge&logo=microsoftpowerpoint" alt="View Full Report">
   </a>
 </p>
 
@@ -126,7 +125,5 @@ If given more time, we would:
 > 🌍 **Long-Term Vision:**  
 > Build a continent-wide data-driven education framework — empowering African schools to use analytics for policy-making, learning optimization, and equitable student success.
 
----
 
-## 🗂️ Repository Structure  
 
