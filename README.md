@@ -22,10 +22,6 @@ Our solution ranked **7th place out of over 100 competing teams** at **DataFest 
 
 ---
 
-![Executive Summary](./images/Executive%20Summary.png)
-
----
-
 ## 🧩 Business Problem  
 
 Education stakeholders and guardian across Africa face an urgent challenge: **students consistently underperform in national exams**, despite significant investment in learning materials and teaching.  
